@@ -1,0 +1,12 @@
+cara penggunaan aplikasi:
+-pastikan anda memiliki webcam
+-jalankan OutfitRecomendation.exe
+-tunggu beberapa saat untuk GUI terbuka
+-pilih camera anda di bagian atas
+-pastikan wajah anda masuk kedalam frame
+-pilih jenis kelamin
+-klik tombol untuk mengambil foto
+-anda akan diperlihatkan warna kulit anda dalan hex code dan warna yang cocok untuk baju anda
+-klik tombol dibagian bawah untuk melihat pilihan outfit
+-klik "next" di bagian bawah untuk berpindah ke outfit selanjutnya dan "Previous" untuk outfit sebelumnya
+-di outfit terakhir tekan "Exit" untuk menutup aplikasi
